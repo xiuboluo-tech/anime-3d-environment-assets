@@ -1,0 +1,36 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Blender backups and temporary files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+*.autosave
+
+# Common 3D application caches
+*.tmp
+*.temp
+*.cache
+*.log
+
+# Render output and generated previews
+renders/
+render/
+tmp/
+temp/
+
+# Godot generated data
+.godot/
+
+# Unity generated data
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
